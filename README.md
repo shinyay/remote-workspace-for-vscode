@@ -6,6 +6,14 @@
 
 ## Description
 
+### Setting up VS Code Remote - Tunnels extension
+
+There are two methods available for setting up tunnels:
+
+- [VS Code Desktop](https://code.visualstudio.com/download): Activate tunneling via the VS Code Desktop user interface (UI). VS Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+
+- [Code CLI](https://code.visualstudio.com/docs/editor/command-line): Execute the tunnel command available in the code command-line interface (CLI). The CLI lets you control how you launch the editor. From the command line, you are using the CLI when performing tasks such as opening files, installing extensions, changing the display language, and outputting diagnostics through command-line options (switches).
+
 ### Create a secure tunnel
 
 Run the following command to download and start the VS Code Server on this machine and then create a tunnel to it.
