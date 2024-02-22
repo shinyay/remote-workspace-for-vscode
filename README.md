@@ -5,6 +5,10 @@ Overview
 
 ## Description
 
+```shell
+code tunnel --accept-server-license-terms
+```
+
 ## Demo
 
 ## Features
