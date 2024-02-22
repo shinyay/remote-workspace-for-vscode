@@ -5,6 +5,10 @@ Overview
 
 ## Description
 
+### Create a secure tunnel
+
+Run the following command to download and start the VS Code Server on this machine and then create a tunnel to it.
+
 ```shell
 code tunnel --accept-server-license-terms
 ```
