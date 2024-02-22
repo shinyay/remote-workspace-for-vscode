@@ -1,4 +1,4 @@
-# Name
+# Intoroduction to VS Code Remote - Tunnel extension
 
 Overview
 ![image](https://github.com/shinyay/remote-workspace-for-vscode/assets/3072734/0d7873cf-76a5-4ace-9ef8-761362c76e25)
