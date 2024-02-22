@@ -29,6 +29,7 @@ Run the following command to download and start the VS Code Server on this machi
 ## References
 
 - [Visual Studio Code Server](https://code.visualstudio.com/docs/remote/vscode-server)
+- [Introduction to Remote - Tunnels extension](https://learn.microsoft.com/en-us/training/modules/create-tunnel/)
 
 ## Licence
 
