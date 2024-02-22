@@ -1,7 +1,8 @@
 # Intoroduction to VS Code Remote - Tunnel extension
 
-Overview
 ![image](https://github.com/shinyay/remote-workspace-for-vscode/assets/3072734/0d7873cf-76a5-4ace-9ef8-761362c76e25)
+
+> The use of tunneling offers a streamlined solution to many challenges. Extensions are now available for development tools such as VS Code. The VS Code [Remote - Tunnels extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-server) can effectively eliminate the need for source code to be on your VS Code client machine since the extension runs commands and other extensions directly on the remote machine. This approach is possible because of the VS Code Server, which is a service that can run on a remote development machine, like your desktop PC or a virtual machine (VM), making it possible to securely connect to that remote machine from anywhere through a local VS Code client, without the requirement of SSH.
 
 ## Description
 
